@@ -49,7 +49,7 @@ select *from slog;
 ```
 ## Output:
 
-![Alt text](01.png)
+![GIT](01.png)
 
 ## Result:
    Thus a trigger is created using PL/SQL.
