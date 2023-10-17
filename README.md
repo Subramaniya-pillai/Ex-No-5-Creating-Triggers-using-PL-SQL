@@ -12,7 +12,8 @@ To create a Trigger using PL/SQL.
 6. Update the salary of an employee in employee table.
 7. Whenever a salary is updated for the employee it must be logged into the salary_log table with old salary and new salary.
 8. Display the employee table, salary_log table.
-
+>DEVOLEPED BY : SUBRAMANIYA PILLAI B
+>REG NO : 212221230109
 ## Program:
 ### Create employee table
 ```
